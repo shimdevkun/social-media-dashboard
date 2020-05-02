@@ -16,9 +16,17 @@ You can see the live version [here](https://social-media-dashboard.xstrafez.now.
 
 ## Results
 
-|             Mobile version             |             Desktop version             |
-| :------------------------------------: | :-------------------------------------: |
-| ![](./images/result_mobile_layout.png) | ![](./images/result_desktop_layout.png) |
+### Desktop Version
+
+|                  Light Theme                  |               Dark Theme                |
+| :-------------------------------------------: | :-------------------------------------: |
+| ![](./images/result_desktop_layout_light.png) | ![](./images/result_desktop_layout.png) |
+
+### Mobile Version
+
+|                 Light Theme                  |               Dark Theme               |
+| :------------------------------------------: | :------------------------------------: |
+| ![](./images/result_mobile_layout_light.png) | ![](./images/result_mobile_layout.png) |
 
 ## See also
 
