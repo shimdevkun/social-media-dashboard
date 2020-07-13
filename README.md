@@ -2,7 +2,7 @@
 
 This is my personal solution for the social-media-dashboard challenge by Frontend Mentor.
 
-You can see the live version [here](https://social-media-dashboard.xstrafez.now.sh/ 'social-media-dashboard')
+See the live version [here](https://social-media-dashboard.sshimabuku.now.sh/ 'social-media-dashboard')
 
 ## Interactions
 
